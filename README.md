@@ -1,5 +1,5 @@
 # opensource contributions
-List of code contributions done to opensource softwares.
+List of opensource contributions done by me.
 
 1. Added a powershell windows installation script to ZVM which is a version management tool for zig programming language written in Golang. PR: https://github.com/tristanisham/zvm/pull/53
 
